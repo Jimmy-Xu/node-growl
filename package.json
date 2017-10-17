@@ -6,8 +6,12 @@
   "maintainers": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Jimmy-Xu/node-growl.git"
+    "url": "git+https://github.com/Jimmy-Xu/node-growl.git"
   },
+  "bugs": {
+    "url": "https://github.com/Jimmy-Xu/node-growl/issues"
+  },
+  "homepage": "https://github.com/Jimmy-Xu/node-growl#readme",
   "main": "./src/node-growl.js",
   "license": "MIT",
   "devDependencies": {
