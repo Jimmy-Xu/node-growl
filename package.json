@@ -1,6 +1,6 @@
 {
   "name": "node-growl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "noitfy growl via gntp-send",
   "author": "Jimmy Xu <xjimmyshcn@gmail.com>",
   "maintainers": [],
