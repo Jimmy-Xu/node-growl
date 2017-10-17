@@ -1,0 +1,26 @@
+{
+  "name": "node-growl",
+  "version": "0.1.0",
+  "description": "noitfy growl via gntp-send",
+  "author": "Jimmy Xu <xjimmyshcn@gmail.com>",
+  "maintainers": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jimmy-Xu/node-growl.git"
+  },
+  "main": "./src/node-growl.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint --ext js lib "
+  },
+  "engines": {
+    "node": ">=4.x"
+  }
+}
